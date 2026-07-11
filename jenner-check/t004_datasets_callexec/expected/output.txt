@@ -1,0 +1,5 @@
+
+  Obs  Name  Sex  Age  Height  Weight
+-----  ----  ---  ---  ------  ------
+    1  Amir  M     13    61.2      95
+

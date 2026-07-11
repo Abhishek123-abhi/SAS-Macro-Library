@@ -1,0 +1,7 @@
+{
+  "bundle": "t014_addplus",
+  "source_file": "Macros 06.sas",
+  "source_blob_sha": "0c5607dca5d19656dc829933d0e05fe4eba8dd9f",
+  "source_commit": "f996d592f8388b2105e970beaa55a85de98dd766",
+  "notes": "The %addplus(number) example from the macro-quoting chapter: normalizes a US-style phone number to a leading '+1' form, branching on the first character with %bquote so parentheses in the input don't upset macro parsing. Copied verbatim, fully self-contained (no external data)."
+}

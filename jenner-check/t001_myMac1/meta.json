@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_myMac1",
+  "source_file": "Macros 01.sas",
+  "source_blob_sha": "99a3d74bd3cb94ae235b1ab42dea4abf3a789104",
+  "source_commit": "f996d592f8388b2105e970beaa55a85de98dd766",
+  "notes": "The repo's opening macro example: %myMac1 builds a Work.class dataset from sashelp.class and writes DATA-step PUT diagnostics. Added a trailing PROC PRINT (not in the original, which ended on a bare quit;) so the bundle has an observable listing; macro body and logic are unchanged."
+}

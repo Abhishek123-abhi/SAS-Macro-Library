@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_holinfo",
+  "source_file": "Macros 05.sas",
+  "source_blob_sha": "89ae6a52cf3facde3ea10e11e30cff148c38ba44",
+  "source_commit": "f996d592f8388b2105e970beaa55a85de98dd766",
+  "notes": "The %holinfo(day,date) example from the repo's local-macro-variable-scope chapter: two positional parameters plus a %let-created local variable are interpolated into a %put message. Copied verbatim, no edits needed -- fully self-contained."
+}

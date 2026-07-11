@@ -1,0 +1,7 @@
+{
+  "bundle": "t007_symget_symput",
+  "source_file": "Macros 07.sas",
+  "source_blob_sha": "6c4c9264607470ab38f28ab88d05027c0ef3fd34",
+  "source_commit": "f996d592f8388b2105e970beaa55a85de98dd766",
+  "notes": "The SYMGET section: CALL SYMPUT captures the first sashelp.class name into a global macro variable, then SYMGET() reads it back into a new DATA step variable. Copied verbatim, fully self-contained via sashelp.class -- exercises the DATA-step-to-macro-facility interface in both directions."
+}

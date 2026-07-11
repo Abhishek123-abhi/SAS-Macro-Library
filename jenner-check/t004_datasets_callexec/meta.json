@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_datasets_callexec",
+  "source_file": "Macros 07.sas",
+  "source_blob_sha": "6c4c9264607470ab38f28ab88d05027c0ef3fd34",
+  "source_commit": "f996d592f8388b2105e970beaa55a85de98dd766",
+  "notes": "Example 04 from the CALL EXECUTE section: the %datasets(name=) macro is invoked once per row of sashelp.class via CALL EXECUTE, generating one work.<name> subset per student. Added a PROC PRINT of work.Amir (the first name in sashelp.class) so the bundle has an observable listing that the per-row macro generation actually worked; macro body and generation logic are unchanged from the source."
+}

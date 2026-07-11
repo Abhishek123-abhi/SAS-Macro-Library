@@ -1,0 +1,11 @@
+{
+  "_captured_at": "2026-07-11T06:52:00Z",
+  "_captured_run_id": "r_df5f2704d4fc41e5b4e11fb652150942",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "+1(909)319-2541"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

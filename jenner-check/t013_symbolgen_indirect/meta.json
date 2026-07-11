@@ -1,0 +1,7 @@
+{
+  "bundle": "t013_symbolgen_indirect",
+  "source_file": "Macros 08.sas",
+  "source_blob_sha": "be159e5e44e659b8ace6237f0ba6e0ef74004d43",
+  "source_commit": "f996d592f8388b2105e970beaa55a85de98dd766",
+  "notes": "The SYMBOLGEN debugging-techniques example: multi-ampersand indirect macro variable references (&&&d&b resolving through d->a, b->1 to &a1->dog) with the SYMBOLGEN option turned on so the resolution chain is visible in the log. Copied verbatim, fully self-contained (no external data)."
+}

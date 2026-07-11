@@ -1,0 +1,21 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA _null_
+
+
+NOTE: Read 19 rows from sashelp.class.
+NOTE: Wrote _null_ (19 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+Amir
+NOTE: DATA want
+
+
+NOTE: Wrote want (1 rows, 1 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=want
+
+NOTE: PROC PRINT completed: 1 observations printed, 1 variables

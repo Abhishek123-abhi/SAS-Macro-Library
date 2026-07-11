@@ -1,0 +1,12 @@
+{
+  "_captured_at": "2026-07-11T06:05:00Z",
+  "_captured_run_id": "capture-t003",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "*** Inside macro: ***",
+    "*** Christmas occurs on Tuesday, 12/25, 2012. ***"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
