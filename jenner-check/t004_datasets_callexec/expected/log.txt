@@ -1,0 +1,165 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA _null_
+
+
+NOTE: Read 19 rows from sashelp.class.
+NOTE: Wrote _null_ (19 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Amir
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Amir (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Bethany
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Bethany (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Carlos
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Carlos (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Diana
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Diana (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Ethan
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Ethan (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Fiona
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Fiona (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.George
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.George (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Hannah
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Hannah (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Ivan
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Ivan (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Julia
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Julia (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Kevin
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Kevin (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Lily
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Lily (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Marco
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Marco (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Nadia
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Nadia (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Oscar
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Oscar (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Priya
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Priya (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Quinn
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Quinn (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Rosa
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Rosa (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.Samuel
+
+
+NOTE: Read 1 rows from sashelp.class.
+NOTE: Wrote work.Samuel (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=work.Amir
+
+NOTE: PROC PRINT completed: 1 observations printed, 5 variables

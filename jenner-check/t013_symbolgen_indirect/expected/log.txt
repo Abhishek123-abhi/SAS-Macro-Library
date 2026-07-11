@@ -1,0 +1,10 @@
+
+SYMBOLGEN:  Macro variable D resolves to a
+SYMBOLGEN:  Macro variable B resolves to 1
+SYMBOLGEN:  Macro variable E resolves to b
+SYMBOLGEN:  Macro variable C resolves to 2
+SYMBOLGEN:  Macro variable A1 resolves to dog
+SYMBOLGEN:  Macro variable B2 resolves to cat
+**** dog ****
+**** cat ****
+NOTE: Option OBS changed to 100.

@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-11T06:15:00Z",
+  "_captured_run_id": "r_538c29c99e5847d3b5b4c1925b40edd0",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Table work.Vars created.",
+    "NOTE: Read 5 rows from work.Vars.",
+    "NOTE: PROC FREQ",
+    "NOTE: PROC MEANS"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-11T06:50:00Z",
+  "_captured_run_id": "r_4256d3560ee74f969f4949e4543a1cf2",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "SYMBOLGEN:  Macro variable A1 resolves to dog",
+    "SYMBOLGEN:  Macro variable B2 resolves to cat",
+    "**** dog ****",
+    "**** cat ****"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

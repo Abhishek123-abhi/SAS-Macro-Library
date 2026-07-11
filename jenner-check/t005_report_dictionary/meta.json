@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_report_dictionary",
+  "source_file": "Macros 07.sas",
+  "source_blob_sha": "6c4c9264607470ab38f28ab88d05027c0ef3fd34",
+  "source_commit": "f996d592f8388b2105e970beaa55a85de98dd766",
+  "notes": "Example 05 from the CALL EXECUTE section: queries dictionary.columns for sashelp.class's column metadata, then CALL EXECUTE drives the %report(var=,type=) macro once per column, branching between PROC FREQ (char columns) and PROC MEANS (numeric columns). Copied verbatim, unmodified -- exercises PROC SQL dictionary tables, macro conditional branching, and generated-code execution together."
+}
